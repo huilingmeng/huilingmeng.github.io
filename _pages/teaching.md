@@ -3,7 +3,6 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
-
 ---
 
 ## Teaching Assistant, **The Chinese University of Hong Kong**
