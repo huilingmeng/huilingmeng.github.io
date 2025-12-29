@@ -5,7 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Talks
 
 **Reinforcement Learning for Intensity Control: An Application to Choice-Based Network Revenue Management**
 
