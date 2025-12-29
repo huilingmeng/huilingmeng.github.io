@@ -228,7 +228,7 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  honors-awards:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -274,10 +274,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _honors-awards
   - scope:
       path: ""
-      type: portfolio
+      type: honors-awards
     values:
       layout: single
       author_profile: true
