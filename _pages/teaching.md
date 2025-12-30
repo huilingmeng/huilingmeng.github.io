@@ -17,4 +17,4 @@ author_profile: true
 **Teaching Assistant, Nanjing University**
 
 - **Concise Calculus**, School of Foreign Studies — Fall 2019
-- **Calculus II (Tier 1)**, Department of Computer Science and Technology  —  Spring 2020, Fall 2020, Spring 2021
+- **Calculus II (Tier 1)**, Department of Computer Science and Technology  —  Spring 2020, Spring 2021
