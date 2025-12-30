@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Huiling Meng"
-  # pronouns         : # example: "she/her"  
-  bio              : "hmeng@se.cuhk.edu.hk"
+  pronouns         : "hmeng@se.cuhk.edu.hk" # example: "she/her"  
+  bio              : "Ph.D. candidate in Systems Engineering & Engineering Management, The Chinese University of Hong Kong"
   
   # location         : "New Territories, Hong Kong SAR"
   # employer         : "The Chinese University of Hong Kong"
