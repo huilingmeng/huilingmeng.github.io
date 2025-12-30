@@ -11,3 +11,10 @@ author_profile: true
 - **ENGG 2780:** Statistics for Engineers — Spring 2023, Spring 2024, Spring 2025  
 - **SEEM 4760:** Stochastic Models for Decision Analytics — Fall 2024  
 - **SEEM 5580:** Advanced Stochastic Models (PhD Level) — Fall 2025
+
+
+
+**Teaching Assistant, Nanjing University**
+
+- **Concise Calculus**, School of Foreign Studies — Fall 2019
+- **Calculus II (Tier 1)**, Department of Computer Science and Technology  —  Spring 2020, Fall 2020, Spring 2021
