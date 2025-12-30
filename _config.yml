@@ -26,12 +26,12 @@ author:
   avatar           : "profile.png"
   name             : "Huiling Meng"
   # pronouns         : # example: "she/her"  
-  # bio              : "Short biography for the left-hand sidebar"
+  bio              : "hmeng@se.cuhk.edu.hk"
   
   location         : "New Territories, Hong Kong SAR"
   employer         : "The Chinese University of Hong Kong"
   # uri              : # URL
-  email            : "hmeng@se.cuhk.edu.hk" 
+  # email            : "hmeng@se.cuhk.edu.hk" 
 
   # Academic websites
   # academia         : # URL
