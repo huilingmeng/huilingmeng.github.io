@@ -25,9 +25,7 @@ News
 
 I will give a talk at the **2026 POMS-HK International Conference**. I look forward to connecting with everyone there!
 
-Title: Reinforcement Learning for Intensity Control: An Application to Choice-Based Network Revenue Management
-
-Session D10: Operational Strategies in Service and Supply Chains
-
+Title: Reinforcement Learning for Intensity Control: An Application to Choice-Based Network Revenue Management \
+Session D10: Operational Strategies in Service and Supply Chains \
 Time & Location: Sunday, January 4, 11:00 AM - 12:30 PM @ TxC 201
 
