@@ -29,5 +29,5 @@ Title: Reinforcement Learning for Intensity Control: An Application to Choice-Ba
 
 Session D10: Operational Strategies in Service and Supply Chains
 
-Time & Location: Saturday, Jan 4, 11:00 AM - 12:30 PM @ TxC 201
+Time & Location: Sunday, January 4, 11:00 AM - 12:30 PM @ TxC 201
 
