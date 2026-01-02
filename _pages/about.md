@@ -15,7 +15,7 @@ I am a Ph.D. candidate in the [Department of Systems Engineering & Engineering M
 Prior to my doctoral studies, I received my Master's degree in Probability and Mathematical Statistics in 2022, and my Bachelor's degree in Statistics in 2019, both from the [Department of Mathematics](https://math.nju.edu.cn/) at [Nanjing University](https://www.nju.edu.cn/en/).
 
 
-My research interests focus on **Reinforcement Learning** and its applications, particularly in **Revenue Management**, **Bandit**, and **Experiment Design**.
+My research interests focus on reinforcement learning and its applications, particularly in revenue management, bandit, and experiment design.
 
 
 ---
