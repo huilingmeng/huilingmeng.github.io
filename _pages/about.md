@@ -12,7 +12,7 @@ About me
 
 I am a Ph.D. candidate in the [Department of Systems Engineering & Engineering Management](https://www.se.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/).
 
-Prior to my doctoral studies, I received my Master's degree in Probability and Mathematical Statistics in 2022, and my Bachelor's degree in Statistics in 2019, both from the Department of Mathematics at [Nanjing University](https://www.nju.edu.cn/en/).
+Prior to my doctoral studies, I received my Master's degree in Probability and Mathematical Statistics in 2022, and my Bachelor's degree in Statistics in 2019, both from the [Department of Mathematics](https://math.nju.edu.cn/) at [Nanjing University](https://www.nju.edu.cn/en/).
 
 
 My research interests focus on **Reinforcement Learning** and its applications, particularly in **Revenue Management**, **Bandit**, and **Experiment Design**.
