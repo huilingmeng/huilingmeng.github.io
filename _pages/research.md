@@ -11,6 +11,6 @@ author_profile: true
    Under Minor Revision at ***Operations Research***  
    *Accepted at NeurIPS 2025 Workshop ML×OR*
 
-2. **Artificial Replay: A Variance-Reduced Method for A/B Testing Adaptive Policies**  
+2. **Design Experiments to Compare Multi-armed Bandit Algorithms**  
    **Huiling Meng**, [Ningyuan Chen](http://individual.utoronto.ca/ningyuanchen), [Xuefeng Gao](https://www1.se.cuhk.edu.hk/~xfgao/)  
    Preparing for submission
