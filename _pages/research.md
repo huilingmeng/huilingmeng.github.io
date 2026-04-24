@@ -13,4 +13,4 @@ author_profile: true
 
 2. **Design Experiments to Compare Multi-armed Bandit Algorithms** ([link](https://arxiv.org/abs/2603.05919))  
    **Huiling Meng**, [Ningyuan Chen](http://individual.utoronto.ca/ningyuanchen), [Xuefeng Gao](https://www1.se.cuhk.edu.hk/~xfgao/)  
-   Preparing for submission
+   Under Review
