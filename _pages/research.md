@@ -14,7 +14,7 @@ author_profile: true
 2. **Design Experiments to Compare Multi-armed Bandit Algorithms** ([link](https://arxiv.org/abs/2603.05919))<br>
 **Huiling Meng**, [Ningyuan Chen](http://individual.utoronto.ca/ningyuanchen), [Xuefeng Gao](https://www1.se.cuhk.edu.hk/~xfgao/)<br>
 Under review at ***Operations Research***<br>
-**Third Prize**, *2026 POMS China Best Student Paper Competition*
+*Third Prize, 2026 POMS China Best Student Paper Competition*
 
 4. **Reinforcement Learning for Continuous-Time Jump Markov Decision Processes with Applications to Dynamic Pricing**<br>
 **Huiling Meng**, [Xuefeng Gao](https://www1.se.cuhk.edu.hk/~xfgao/)<br>
