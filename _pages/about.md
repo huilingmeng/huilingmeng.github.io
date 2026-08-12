@@ -20,6 +20,7 @@ My research interests focus on reinforcement learning and its applications, part
 
 ---
 
+<!-- 
 News
 -
 
@@ -27,5 +28,7 @@ I will give a talk at the **2026 POMS-HK International Conference**. I look forw
 
 Title: Reinforcement Learning for Intensity Control: An Application to Choice-Based Network Revenue Management \
 Session D10: Operational Strategies in Service and Supply Chains \
-Time & Location: Sunday, January 4, 11:00 AM - 12:30 PM @ TxC 201
+Time & Location: Sunday, January 4, 11:00 AM - 12:30 PM @ TxC 201 
+-->
+
 
