@@ -16,6 +16,8 @@ author_profile: true
 Under review at ***Operations Research***<br>
 *Third Prize, 2026 POMS China Best Student Paper Competition*
 
-4. **Reinforcement Learning for Continuous-Time Jump Markov Decision Processes with Applications to Dynamic Pricing**<br>
+<!--
+3. **Reinforcement Learning for Continuous-Time Jump Markov Decision Processes with Applications to Dynamic Pricing**<br>
 **Huiling Meng**, [Xuefeng Gao](https://www1.se.cuhk.edu.hk/~xfgao/)<br>
 *Working paper*
+-->
