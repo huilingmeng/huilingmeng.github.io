@@ -13,7 +13,6 @@ I develop novel learning algorithms to address challenges arising in operational
 
 Prior to my doctoral studies, I earned my M.S. in Probability and Mathematical Statistics (2022) and B.S. in Statistics (2019) from the [Department of Mathematics](https://math.nju.edu.cn/) at [Nanjing University](https://www.nju.edu.cn/en/).
 
-<br><br>
 
 **I am on the 2026–2027 academic job market!**  
 You can reach me at [hmeng@se.cuhk.edu.hk](mailto:hmeng@se.cuhk.edu.hk).
