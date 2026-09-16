@@ -8,7 +8,7 @@ I am a fifth-year Ph.D. candidate in the [Department of Systems Engineering & En
 
 
 My research lies at the intersection of operations and machine learning, with a focus on decision-making under uncertainty in modern operational systems.
-I develop novel learning algorithms to improve operational decision-making and, in turn, use operations research methods to better design and understand learning systems.
+I develop novel learning algorithms to address challenges arising in operational decision problems and, in turn, use operations research methods to better design and understand learning systems.
 
 
 Prior to my doctoral studies, I earned my M.S. in Probability and Mathematical Statistics (2022) and B.S. in Statistics (2019) from the [Department of Mathematics](https://math.nju.edu.cn/) at [Nanjing University](https://www.nju.edu.cn/en/).
