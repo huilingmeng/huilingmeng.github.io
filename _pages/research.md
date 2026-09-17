@@ -8,7 +8,7 @@ author_profile: true
 Publications and Working Papers
 </h2> 
 
-1. **Reinforcement Learning for Intensity Control: An Application to Choice-Based Network Revenue Management** ([link](https://arxiv.org/abs/2406.05358))  
+1. [**Reinforcement Learning for Intensity Control: An Application to Choice-Based Network Revenue Management**](https://arxiv.org/abs/2406.05358)  
    **Huiling Meng**, [Ningyuan Chen](http://individual.utoronto.ca/ningyuanchen), [Xuefeng Gao](https://www1.se.cuhk.edu.hk/~xfgao/)  
    *Operations Research*, accepted, 2026.  
    Preliminary version accepted at *NeurIPS 2025 ML×OR Workshop*.  
