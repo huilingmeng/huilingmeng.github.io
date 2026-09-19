@@ -9,9 +9,9 @@ Publications and Working Papers
 </h2> 
 
 
-1. **[Reinforcement Learning for Intensity Control: An Application to Choice-Based Network Revenue Management](https://arxiv.org/abs/2406.05358)**  
+1. **[Reinforcement Learning for Intensity Control: An Application to Choice-Based Network Revenue Management](https://pubsonline.informs.org/doi/full/10.1287/opre.2024.1190)**  
    **Huiling Meng**, Ningyuan Chen, Xuefeng Gao  
-   *Operations Research*, accepted, 2026.  
+   *Operations Research*, published online, 2026.  
    Preliminary version accepted at *NeurIPS 2025 ML×OR Workshop*.  
 
 2. **[Design Experiments to Compare Multi-armed Bandit Algorithms](https://arxiv.org/abs/2603.05919)**  
