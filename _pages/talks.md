@@ -8,6 +8,7 @@ author_profile: true
 Design Experiments to Compare Multi-Armed Bandit Algorithms
 </h3>
 
+- 2026 INFORMS Annual Meeting (Upcoming)  
 - 2026 POMS International Conference in China
 - 2026 INFORMS MSOM Conference
 - 2026 Annual Conference of the Canadian Operational Research Society
